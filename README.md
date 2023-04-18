@@ -2,7 +2,7 @@
 
 A program that prints, "Hello World." This program also demonstrates how Python, VSC, and GitHub integrate together.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+Program demonstration here:
 
 [Software Demo Video](http://youtube.link.goes.here)
 
